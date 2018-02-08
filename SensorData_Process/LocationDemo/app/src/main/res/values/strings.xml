@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LocationDemo</string>
+
+    <!--CollectOneActivity-->
+
+
+    <!--CollectFourActivity-->
+    <string name="NORTHWEST">NorthWest</string>
+    <string name="NORTHEAST">NorthEast</string>
+    <string name="SOUTHWEST">SouthWest</string>
+    <string name="SOUTHEAST">SouthEast</string>
+
+
+
+
+</resources>
