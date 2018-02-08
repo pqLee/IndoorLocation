@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IndoorLocation</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_start_sampling">Start Sampling</string>
+    <string name="button_stop_sampling">Stop Sampling</string>
+    <string name="button_next">Next</string>
+
+    <string name="text_current_sampling_data">The current sampling data:</string>
+    <string name="text_next">Completed !</string>
+</resources>

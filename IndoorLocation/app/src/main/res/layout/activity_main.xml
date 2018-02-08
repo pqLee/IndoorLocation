@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+        <EditText
+            android:id="@+id/et_tablename"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:layout_centerHorizontal="true"
+            android:hint="Table Name"
+            android:textSize="20sp"
+            />
+
+    </RelativeLayout>>
+
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp">
+        <Button
+            android:id="@+id/btn_search"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="Search"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp">
+        <Button
+            android:id="@+id/btn_delete"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="Delete"
+            android:textSize="20sp" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp">
+        <Button
+            android:id="@+id/btn_collect"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Collect"
+            android:textSize="20sp"/>
+    </RelativeLayout>
+
+
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp">
+        <Button
+            android:id="@+id/btn_collect4"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="Collect4"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp">
+        <EditText
+            android:id="@+id/et_tbname1"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:hint="Table Name1"
+            android:textSize="20sp"
+            android:layout_centerHorizontal="true"
+            />
+        </RelativeLayout>
+
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp">
+        <EditText
+            android:id="@+id/et_tbname2"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:hint="Table Name2"
+            android:textSize="20sp"
+            android:layout_centerHorizontal="true"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp">
+        <Button
+            android:id="@+id/btn_test"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="Test"
+            android:textSize="20sp" />
+    </RelativeLayout>
+</LinearLayout>

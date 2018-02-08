@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">indoorlocation</string>
+
+    <string name="button_start_sampling">Start Sampling</string>
+    <string name="button_stop_sampling">Stop Sampling</string>
+    <!--<string name="button_init_file">Init File</string>-->
+    <string name="button_get_average_data">Get Data</string>
+    <string name="button_delete_table">Delete Table</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="button_completed">Completed</string>
+
+
+    <!--CollectFourActivity-->
+    <string name="NORTHWEST">NorthWest</string>
+    <string name="NORTHEAST">NorthEast</string>
+    <string name="SOUTHWEST">SouthWest</string>
+    <string name="SOUTHEAST">SouthEast</string>
+    <string name="text_current_sampling_data">The current sampling data:</string>
+</resources>
